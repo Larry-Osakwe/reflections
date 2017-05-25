@@ -3,3 +3,11 @@ What happens when you initialize a repository? Why do you need to do it?
 	When I initialize a repository it looks like the file i use the git init 
 	command creates a .git file. This probably allows me to use the git commands
 	we previously learned on the folder/repository. git diff, git checkout, git log
+	
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	I think the staging area is a quick sanity check for the user to make sure
+	they are commiting exactly what they want to commit because while in the 
+	staging area, there's an opportunity to back out
+	
