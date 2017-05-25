@@ -11,3 +11,7 @@ What value do you think it offers?
 	they are commiting exactly what they want to commit because while in the 
 	staging area, there's an opportunity to back out
 	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By using git diff I can see the changes between my working directory and staging area.
+	The staging area lets you decide which files you want to commit.
