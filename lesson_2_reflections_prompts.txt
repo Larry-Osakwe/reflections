@@ -26,3 +26,10 @@ How do the diagrams help you visualize the branch structure?
 	
 	The diagrams help me visualie the branch stuctures by showing literal branches.
 	I can see exactly where a branch is created and then what becomes the working code
+	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two brnaches together combined the code of the master as well as additional features
+	being developed by another person. We represent it the way we do because we can looks back at 
+	previous commis through both branches and combine the relevant code.
+	
