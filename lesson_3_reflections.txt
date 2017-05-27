@@ -2,3 +2,14 @@ When would you want to create a remote repository rather than keeping all your w
 
 	You would want to create a remote repository when you want to push or pull from
 	GitHub.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?
+
+	Forks makes copies of existing repositories on github server. Clones makes a copy of a github
+	repository and sends that copy to your local station. Branches are paths in your code that can 
+	deviate from the master. You'd fork if you wanted to make a copy of a respository and create your
+	own remote and not affect the original. You'd clone if you were fine pushing/pulling to/from the
+	same remote. You'd branch if you wanted to keep the master the same.
+	
+	
